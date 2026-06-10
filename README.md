@@ -9,3 +9,4 @@ I learned How to share files with multiple users including how to deny and allow
 1. Create two test users on Windows 11 Home using Command Prompt. (command "net user 'name' 'password' /add" used to create new PC user).
 2. 
 ## Comments/ notes
+On step 1, I learned the difference between all the users shown on the command line including user accounts, administrator accounts, and built-in Windows system accounts as well as the importance of never tampering with the Windows Administrator, Windows Defender Application Guard Utility Account, and Default Account. 
